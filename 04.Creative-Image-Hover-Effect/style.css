@@ -21,6 +21,9 @@ body{
     height: 100%;
     transition: all 0.5s;
 }
+
+/*https://bennettfeely.com/clippy/*/
+
 .clip1{
     background: url(https://images.unsplash.com/photo-1604537466158-719b1972feb8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80);
     background-size: cover;
